@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## 📄 Diccionario de Datos
 
 A continuación se describe la estructura del conjunto de datos reportado por la Oficina de Epidemiología de la DIRESA, con el detalle de cada variable incluida.
@@ -20,3 +21,7 @@ A continuación se describe la estructura del conjunto de datos reportado por la
 | `FECHA_ING`     | Fecha de ingreso del registro en el sistema.                                            | Numérico     | 8      |                             | Formato: `aaaammdd`   |
 
 ---
+=======
+<h1>Proyecto para Datathon - CONOVATEC 2025</h1>
+---------------------------------------------------------
+>>>>>>> 413c80ce235b3e3f37db971c44bc4cafe85908f0
