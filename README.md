@@ -1,2 +1,1 @@
-# Proyecto_CONOVATEC2025
-Proyecto sobre las Enfermedades Diarreicas Agudas en menores de 5 años en la región de Piura 
+<h1>Proyecto para Datathon - CONOVATEC 2025</h1>
